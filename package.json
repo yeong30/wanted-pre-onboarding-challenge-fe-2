@@ -1,0 +1,25 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "preonboarding challenge with typescript",
+  "main": "index.js",
+  "dependencies": {
+    "jdoc": "^0.2.0",
+    "jsdoc": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeong30/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "author": "proyeons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeong30/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://github.com/yeong30/wanted-pre-onboarding-challenge-fe-2#readme"
+}
