@@ -64,10 +64,6 @@ graceful-fs@^4.1.9:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.10.tgz#147d3a006da4ca3ce14728c7aefc287c367d7a6c"
   integrity sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==
 
-jdoc@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/jdoc/-/jdoc-0.2.0.tgz#013102c44c3f3d051b65f30f491fb8a3c31bc380"
-  integrity sha512-RpQtrwqkInG9Fq6gDtn9CDC5xyjQk+Rcm47dHV0VXn+rnVNoPC/IqqMN1pdt8PhHCXI7fYgDWQZ+0ra06TbpbQ==
 
 js2xmlparser@^4.0.2:
   version "4.0.2"

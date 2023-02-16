@@ -4,7 +4,6 @@
   "description": "preonboarding challenge with typescript",
   "main": "index.js",
   "dependencies": {
-    "jdoc": "^0.2.0",
     "jsdoc": "^4.0.0"
   },
   "devDependencies": {},
